@@ -9,16 +9,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no,minimal-ui" />
 
   <!-- primary information-->
-  <title>Beranda | Bintang Fotocopy</title>
-  <meta name="description" content="Beranda | Bintang Fotocopy" />
-  <meta name="keywords" content="Beranda, Bintang Fotocopy, indonesia" />
+  <title>Beranda | Angga Deongs</title>
+  <meta name="description" content="Beranda | Angga Deongs" />
+  <meta name="keywords" content="Beranda, Angga Deongs, indonesia" />
 
   <!-- ie fix for html5 tags-->
   <!--[if lt IE 9]><script src='http://html5shiv.googlecode.com/svn/trunk/html5.js'></script><![endif]-->
 
   <!-- author-->
-  <meta name="author" content="Bintang Fotocopy" />
-  <meta name="copyright" content="2021 Bintang Fotocopy. All Right Reserved" />
+  <meta name="author" content="Angga Deongs" />
+  <meta name="copyright" content="2021 Angga Deongs. All Right Reserved" />
 
   <!-- user agent crawler-->
   <meta name="robots" content="index, follow" />
@@ -28,61 +28,25 @@
   <meta name="webcrawlers" content="index, follow" />
   <meta name="spiders" content="index, follow" />
 
-  <!-- canonical-->
-  <link rel="canonical" href="https://www.bintang-fotocopy.com" />
-
   <!-- og facebook general-->
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Beranda | Bintang Fotocopy" />
-  <meta property="og:description" content="Beranda | Bintang Fotocopy" />
-  <meta property="og:url" content="https://www.bintang-fotocopy.com" />
-  <meta property="og:site_name" content="bintang-fotocopy.com" />
+  <meta property="og:title" content="Beranda | Angga Deongs" />
+  <meta property="og:description" content="Beranda | Angga Deongs" />
+  <meta property="og:url" content="" />
+  <meta property="og:site_name" content="" />
   <meta property="og:image" content="assets/img/default/og-facebook.jpg" />
   <meta property="og:image:type" content="image/jpeg" />
 
   <!-- twitter card-->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Beranda | Bintang Fotocopy" />
-  <meta name="twitter:description" content="Beranda | Bintang Fotocopy" />
-  <meta name="twitter:site" content="@bintang-fotocopy" />
-  <meta name="twitter:site:id" content="@bintang-fotocopy" />
-  <meta name="twitter:domain" content="bintang-fotocopy.com" />
+  <meta name="twitter:title" content="Beranda | Angga Deongs" />
+  <meta name="twitter:description" content="Beranda | Angga Deongs" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:site:id" content="@" />
+  <meta name="twitter:domain" content="" />
   <meta name="twitter:image:src" content="assets/img/default/twitter-card.jpg" />
-  <meta name="twitter:creator" content="@bintang-fotocopy" />
-
-  <!-- ============ icon ============-->
-  <!-- web favicon-->
-  <link rel="shortcut icon" href="assets/img/homescreen/favicon.ico" />
-
-  <!-- android add to home screen-->
-  <link rel="manifest" href="assets/js/data/manifest.json" />
-  <meta name="mobile-web-app-capable" content="yes" />
-  <meta name="theme-color" content="#fa759f" />
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/img/homescreen/favicon-16x16.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/homescreen/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="96x96" href="assets/img/homescreen/favicon-96x96.png" />
-  <link rel="icon" type="image/png" sizes="144x144" href="assets/img/homescreen/android-icon-144x144.png" />
-  <link rel="icon" type="image/png" sizes="192x192" href="assets/img/homescreen/android-icon-192x192.png" />
-
-  <!-- windows microsoft-->
-  <meta name="msapplication-TileColor" content="#fa759f" />
-  <meta name="msapplication-TileImage" content="assets/img/homescreen/ms-icon-144x144.png" />
-
-  <!-- apple add to home screen-->
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="#fa759f" />
-  <link rel="apple-touch-icon" href="assets/img/homescreen/apple-icon.png" />
-  <link rel="apple-touch-icon" sizes="57x57" href="assets/img/homescreen/apple-icon-57x57.png" />
-  <link rel="apple-touch-icon" sizes="60x60" href="assets/img/homescreen/apple-icon-60x60.png" />
-  <link rel="apple-touch-icon" sizes="72x72" href="assets/img/homescreen/apple-icon-72x72.png" />
-  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/homescreen/apple-icon-76x76.png" />
-  <link rel="apple-touch-icon" sizes="114x114" href="assets/img/homescreen/apple-icon-114x114.png" />
-  <link rel="apple-touch-icon" sizes="120x120" href="assets/img/homescreen/apple-icon-120x120.png" />
-  <link rel="apple-touch-icon" sizes="144x144" href="assets/img/homescreen/apple-icon-144x144.png" />
-  <link rel="apple-touch-icon" sizes="152x152" href="assets/img/homescreen/apple-icon-152x152.png" />
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/homescreen/apple-icon-180x180.png" />
-  <link rel="apple-touch-startup-image" href="assets/img/homescreen/apple-icon.png" />
+  <meta name="twitter:creator" content="@" />
 
   <!-- style-->
   <link rel="stylesheet" href="assets/css/app.min.css" />
